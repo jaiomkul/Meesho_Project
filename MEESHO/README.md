@@ -14,16 +14,6 @@ Meesho is an indian e-commerce company, We tried core functionalities of Meesho 
 4) Add to cart
 5) Seller Page
 
-## Contributions:-
-
-### [kishan Prajapati](https://github.com/kishan2406) - [LinkedIn](https://www.linkedin.com/in/kishan-prajapati-5379621a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlEI%2BIgBQRcODHYhdXT9c9w%3D%3D)
-
-### [Pratham Agrawal](https://github.com/pratham2002) - [LinkedIn](https://www.linkedin.com/in/pratham-agrawal-940590174)
-
-### [Ravi Shukla](https://github.com/Rshukla12) - [LinkedIn](https://www.linkedin.com/in/ravi-shukla-94036693)
-
-### [Vandana Tiwari](https://github.com/vandna0906) - [LinkedIn](https://www.linkedin.com/in/vandna-tiwari)
-
 ## Deploy Locally
 
 ### Steps to deploy
